@@ -1,0 +1,10 @@
+
+body  {
+    background-color: #ccff99;
+}
+    h2{color:green;font-style: inherit;font-family:Verdana,Sans-serif;}
+    h3{color:brown;font: italic bold 12px/30px Georgia, serif;}
+    span {font-weight: 24px;font-family:Vivaldi,cursive;}
+	.birbasliq {
+    color:orange;}
+	.ba { size:120;color:brown;}

@@ -1,0 +1,41 @@
+body{
+	margin: 0 auto;
+}
+.fullWidht{
+	width: 100%;
+}
+.innerWrapper{
+	width: 950px; 
+	margin:0 auto;
+}
+.header{width:100%;
+     background-color:gray;}
+.Logo{
+	}
+.logo img{
+	display: block;
+	margin:0 auto;
+	width: 450px;
+	height: 100px; 
+}
+.slider{
+	height: 200px;
+	background-color: blue;
+}
+.content{
+	background-color:gray;
+	height: 305px;
+}
+.contentItem{
+	margin: 0 auto;
+	width: 208px;
+	height: 150px;
+    border: 1px solid red;
+    float:left;
+    padding:10px;  
+}
+.footer{
+	clear:both;
+	height: 100px;
+	background-color:darkblue;
+}

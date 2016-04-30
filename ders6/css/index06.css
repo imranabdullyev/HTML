@@ -1,0 +1,185 @@
+*{
+	margin: 0;
+    padding:0;
+    box-sizing:border-box;}
+
+/**common class**/
+.border{
+	border: 1px solid gray;
+}
+.bringToCenter{
+	margin:0 auto;
+}
+.clearFix{
+	clear: both;
+}
+.verticalSpacer{
+	width: 100%;
+	height:10px;
+}
+.floatLeft{
+	float: left;
+}
+.floatRight{
+	float: right;
+}
+.leftcolumn{
+	width:600px;
+
+}
+.rightColumn{
+	width: 350px;
+}
+.h{ 
+	height:30px;
+	color:brown;
+	line-height: 30px;
+	font-size:10px;
+	padding:0 15px;
+	font-size: 16px;
+	text-transform: uppercase;
+	background-color:lightcyan;
+}
+.rengsari{
+	background-color: #ffdb4d; 
+}
+.rengyasil{
+	background-color:#b3ff66;
+}
+	/**common class**/
+
+
+	/**main**/
+.main{
+	width: 960px;
+}
+.header{
+	width: 100%;
+	height: 120px;
+	padding:15px 5px;
+	background-color: #1a0019;
+}
+.logo img{
+	width: 100px;
+	height: 90px;
+}
+.searchForm {
+	margin-top: 25px;
+	padding:5px 15px;
+}
+
+.navbar{
+	background: gray;
+	color: white;
+	width: 100%;
+	height:40px;
+}
+.navbar ul{
+	margin: 0;
+	padding: 0;
+}
+.navbar ul li{
+	float: left;	
+	padding:0 10px;
+	font-size: 16px;
+	line-height: 40px;
+	font-weight: bold;
+	font-family: arial;
+	list-style-type: none;
+	text-transform: uppercase;
+}
+.slider{
+	width:100% ;
+	height: 160px;
+}
+.rightSlider{ 
+	width: 351px;
+	background:  #80b3ff;
+	}
+.rightSlider ul{
+		padding: 0;
+		margin: 0;
+	}
+.rightSlider ul li{
+	height: 40px;
+	padding: 5px 10px;
+	border-bottom: 2px solid white;
+	font-size: 16px;
+	color:#3385ff;
+	
+	font-weight: bold;
+	font-family: arial;
+	list-style-type: none;
+	text-transform: uppercase;
+    }
+.leftSlider{
+	margin: 0;
+	width:609px;
+	height:160px;
+	background: lightgreen;
+	border-bottom: 2px solid white;
+	color: red;
+}
+.content{
+	width:100%;
+}
+
+.sagContent{
+	height: 400px;
+}
+.sagContent p{
+	text-align:justify;
+	padding: 10px 10px;
+}
+.solYuxari{
+	height:150px;	
+}
+.solAsagi{
+	height: 240px;
+}
+.imagSol{
+	width: 100%;
+}	
+.imageSol img{
+	width: 141px;
+	height: 100px;
+	margin: 110px 5px 0px 0px;
+}
+.imageSag{
+	height: 100%;
+   margin-top: 45px; 
+}
+.imageSag img{
+	width: 90px;
+	height: 90px;
+	padding: 5px;
+	display: table-cell;
+}
+.sagParagraf {
+	color: green;
+	font-weight: bold;
+	text-transform: uppercase;
+	text-transform: justify;
+	margin: 30px 10px;
+}
+	
+.footer{
+	width: 100%;
+	height: 150px;
+}
+.footerImag{
+	width: 100%;
+	margin-top:0px;
+}
+.footerImag img{
+	margin:10px 0 0 10px;
+	width: 90px;
+	height: 90px;
+	float:right;
+}	
+
+.axtaris input{
+	height:30px;
+	margin:3px 0 0 0;
+}
+/*main**/

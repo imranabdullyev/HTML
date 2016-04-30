@@ -1,0 +1,95 @@
+body{
+	font-family: Verdana;
+	color:#22313F 	;
+	background-color:#DADFE1; 
+}
+*{  border-sizing:box-border;
+	margin: 0;
+	padding: 0;	
+}
+.Ara{
+	width: 100%;
+	height: 10px;
+	clear: both;
+}
+
+.main{
+	border: none;
+	height: auto;
+}
+/*basliq ve naviqasia*/
+.basliq{
+	height: 70px;
+}
+.logo{
+	margin: 0px;
+	padding: 0px;
+	line-height: 70px;
+	font-size:25px;
+}
+span h1 {
+	font-size: 25px;
+}
+.naviqasia{
+    height: 50px;
+}
+.naviqasia ul{
+	margin: 0 auto;
+	width:555px; 
+}
+.naviqasia ul li{
+	line-height: 50px;
+	padding: 0px 10px;
+	font-size: 15px; 
+	font-weight:bold;
+	text-transform: uppercase;
+	color: gray; 
+	display: inline;
+}
+a{
+  	text-decoration: none;
+  	color:#22313F;
+  }
+/*basliq ve naviqasia*/
+
+/*Slider*/
+.slider{
+	
+	height: 250px;
+}
+.solSlider{
+	padding-right: 5px;
+	height: 250px;
+}
+.ortaSlider{
+	height: 250px;
+}
+.sagSlider{
+	height: 250px;
+}
+/*Slider*/
+
+/*Content*/
+.Content{
+	height: 300px;
+}
+.solContent{
+	height:300px;
+}
+.sagContent{
+	height:300px;
+}
+/*Content*/
+p{
+	padding: 5px 0px;
+	text-align:justify;
+	word-spacing:3px; 
+	border: none;
+	color:#22313F;
+	font-size: 14px;
+}
+.footer{
+	border:1px solid white;
+	height: 100px;
+}
+
